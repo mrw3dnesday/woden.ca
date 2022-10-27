@@ -1,5 +1,5 @@
 const imageURL =
-	"52259221868_e86daccb7d_6k.jpg";
+	"The Wild Hunt of Odin [1872].jpg";
 const canvas = document.getElementById("image-canvas");
 
 const img = new Image();
